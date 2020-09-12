@@ -1,7 +1,6 @@
 <?php
 /**
  * 配置
- *
  * @author mybsdc <mybsdc@gmail.com>
  * @date 2019/3/2
  * @time 11:39
